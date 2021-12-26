@@ -3,7 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/drawable/ic_round_corners.xml" value="0.1" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/drawable/ic_saya.xml" value="0.1" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout-v28/activity_main_home.xml" value="0.11351351351351352" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/activity_login.xml" value="0.1472972972972973" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/activity_main_home.xml" value="0.22" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/activity_splashscreen.xml" value="0.24155405405405406" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_baru.xml" value="0.1527027027027027" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_blank.xml" value="0.17736486486486486" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_home.xml" value="0.1527027027027027" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_saya.xml" value="0.21" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_stok.xml" value="0.1527027027027027" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/fragment_trx.xml" value="0.1527027027027027" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/layout/item_barang.xml" value="0.17736486486486486" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17972972972972973" />
         <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Arkhi/AndroidStudioProjects/TheCasheeer/app/src/main/res/xml/tabs.xml" value="0.1570945945945946" />
       </map>
     </option>
   </component>

@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheCasheeer">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".main_home"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
